@@ -1,7 +1,7 @@
 ## LC Waikiki .Net Bootcamp [2.7]
 `LC Waikiki .Net Bootcamp'in` birinci haftasında geliştirilen `örnek WebAPI projesi`
 
-* Temel CRUD işlemleri, validasyonlar ve HTTP response status codes'lar üzerinde durulmuştur.
+* Temel CRUD işlemleri, validasyonlar ve HTTP response status code'lar üzerinde durulmuştur.
 * Ödevin isterleri dolayısıyla katmansız bir mimari inşa edilmiş ve bazı best practice'ler göz ardı edilmiştir.
 
 
